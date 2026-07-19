@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap');
+
+@theme {
+  --color-brand: #9fe870;
+  --color-brand-hover: #cdffad;
+  --color-brand-pale: #1a2a10;
+  --color-ink: #e8eaf6;
+  --color-ink-deep: #c5cae9;
+  --color-body: #b0b8c8;
+  --color-muted: #6b7280;
+  --color-canvas: #141829;
+  --color-canvas-soft: #0d1020;
+  --color-positive: #4ade80;
+  --color-positive-deep: #166534;
+  --color-warning: #fbbf24;
+  --color-warning-deep: #92400e;
+  --color-negative: #f87171;
+  --color-negative-deep: #991b1b;
+  --color-negative-bg: #2a0a0a;
+  --color-accent-cyan: #38c8ff;
+  --color-dark-bg: #080b1a;
+  --color-dark-card: #111528;
+  --color-dark-border: #1e2545;
+  --color-x-color: #a78bfa;
+  --color-o-color: #34d399;
+  --font-family-display: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-family-body: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--font-family-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--color-dark-bg);
+  color: var(--color-ink);
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes winPulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
