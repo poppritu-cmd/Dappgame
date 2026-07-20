@@ -26,7 +26,6 @@ Stellar Tic Tac Toe is a fully functional Web3 game where two players connect th
 
 Built for the **Stellar Dev Advocacy Level 3** challenge.
 
-![Gameplay Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp3Nm44a3R0eXA0dG1kaDN5a29kYjB1bTB0bDF6djBoaXQ4cjF3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif)
 
 ---
 
