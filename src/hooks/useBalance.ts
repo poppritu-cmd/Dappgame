@@ -6,6 +6,7 @@ export function useBalance(address: string | null) {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
+  
   const fetchBalance = useCallback(async () => {
     if (!address) {
       setBalance('0');
