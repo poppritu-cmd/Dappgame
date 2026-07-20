@@ -12,7 +12,9 @@
 
 <br/>
 
-![Tic Tac Toe Game](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ6eTI3cTRhaHVkZ2p0eXFwYjB1bTB0bDF6dXFwa3FkMjV5cnk3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll44gR3QvDPjWlFBx3/giphy.gif)
+<img width="1902" height="882" alt="image" src="https://github.com/user-attachments/assets/b17732de-36c8-46ba-81df-68ad1cde5096" />
+
+<img width="1896" height="550" alt="image" src="https://github.com/user-attachments/assets/156e74e8-63d2-47ea-ba59-775b0fad2336" />
 
 </div>
 
